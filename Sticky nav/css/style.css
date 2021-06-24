@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background: #eeeeee;
+  background: #707542;
   font-family: 'helvetica neue';
   font-size: 20px;
   font-weight: 200;
@@ -42,7 +42,7 @@ h1 {
 }
 
 nav {
-  background: black;
+  background: rgb(214, 140, 165);
   top: 0;
   width: 100%;
   transition: all 0.5s;

@@ -19,3 +19,5 @@ slider.addEventListener('touchstart', handleTouchStart);
 slider.addEventListener('touchcancel', handleTouchOff);
 slider.addEventListener('touchend', handleMouseOff);
 slider.addEventListener('touchmove', handleTouchMove);
+
+
